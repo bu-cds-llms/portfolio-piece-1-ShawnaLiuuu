@@ -1,0 +1,6 @@
+Python 3.9+
+torch
+gensim
+matplotlib
+seaborn
+numpy
