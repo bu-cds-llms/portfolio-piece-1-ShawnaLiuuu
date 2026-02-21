@@ -23,6 +23,7 @@ No learned projection matrices or positional encodings were used to isolate the 
 2. Open *notebook/Portfolio_Piece_1.ipynb*
 3. Run all cells from top to bottom
 4. Attention visualizations will be saved in the *outputs/* directory
+
 Note: The first run may take several minutes to download pretrained GloVe embeddings
 
 ## Requirements 
